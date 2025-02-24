@@ -18,7 +18,7 @@ export default function Home() {
         <nav>
           <ul style={styles.navList}>
             <li style={styles.navItem}>
-              <Link href="/about">
+              <Link href="page.js">
                 <span style={styles.navLink}>About Me</span>
               </Link>
             </li>
